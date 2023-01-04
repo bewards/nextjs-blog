@@ -1,0 +1,17 @@
+.alert {
+    border-radius: 4px;
+    padding: 1rem;
+    border: 1px solid black;
+}
+.success {
+    border-color: green;
+}
+.success h3 {
+    color: green;
+}
+.error {
+    border-color: red;
+}
+.error h3 {
+    color: red;
+}
